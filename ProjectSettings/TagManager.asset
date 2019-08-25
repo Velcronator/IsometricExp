@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 2632578639
+    locked: 0
+  - name: Default
+    uniqueID: 4213134807
+    locked: 0
+  - name: Foreground
+    uniqueID: 2584980501
+    locked: 0
+  - name: Collider Debug
+    uniqueID: 440885557
+    locked: 0
